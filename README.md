@@ -39,18 +39,7 @@ Super impressed by how much it simplifies the process!
 Currently brainstorming project ideas to put LangChain into action — excited to start building! 🚀
 
 ---
-
-## 🎯 Upcoming Goals
-
-- 📚 Deepen understanding of **Data Visualization** tools
-- 🤖 Build **LLM-based applications** using LangChain
-- 📊 Create real-world projects with **Matplotlib** & **Seaborn**
-- 📈 Share regular updates here on GitHub!
-
----
-
-Stay tuned for more updates!  
-✨ *Learning is a journey, not a race.* ✨
+a race.* ✨
 
 ---
 
